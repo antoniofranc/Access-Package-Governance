@@ -1,4 +1,6 @@
 # Access Package Governance
+
+📄 [View Full Document on Google Docs](https://docs.google.com/document/d/1UPoHdYQLbvxnf4Dz56fOVZQX_fAbkqIy)
  
 **Contractor Role — Design, Build & Test Documentation**  
 Final IAM Project — Day 4 Portfolio Artifact
